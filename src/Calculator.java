@@ -7,6 +7,7 @@ public class Calculator {
             System.out.println("Enter first number");
             int a = s.nextInt();
             System.out.println("Enter first number");
+
             int b = s.nextInt();
         do {
             System.out.println("Enter 1 for addition \n Enter 2 for subtraction \n Enter 3 for multiplication \n Enter 4 for division \n Enter 5 for Exit");
