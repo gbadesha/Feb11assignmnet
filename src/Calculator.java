@@ -10,7 +10,7 @@ public class Calculator {
 
             int b = s.nextInt();
         do {
-            System.out.println("Enter 1 for addition \n Enter 2 for subtraction \n Enter 3 for multiplication \n Enter 4 for division \n Enter 5 for Exit");
+            System.out.println("Enter 1 for addition \n and Enter 2 for subtraction \n Enter 3 for multiplication \n Enter 4 for division \n Enter 5 for Exit");
 
             n = s.nextInt();
             if(n==5){
